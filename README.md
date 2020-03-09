@@ -16,12 +16,13 @@ This Applicaton takes Enrollment number and his programme code from the user. Fe
 ## Known Issues:
 ### Possible reasons for application crash
 - Incorrect enrollment number (as this application does not verifies user's enrollment number)
-- If enrollment number is left blank.
+- When enrollment number is left blank.
 - Enrollment number provided is for programmes other than BA / BDP / BCOM.
-- Since programmes are updated regularly, their corresponding courses' list might not be updated.
+- Since programmes are updated regularly at IGNOU, their corresponding courses list might not be updated in our database. Contribute to the project and update the list of courses under '/src/course_details.dat'.
 
 ### Possible reasons for invalid/inaccurate percentage
 - If one or more courses (either assignment or term end exam or both) might not be completed .
+- If the result is not updated for the one or more courses, or the result for Assigments or Term End Examination is not updated for one or more courses.
 - Since programmes are updated regularly, their corresponding courses' credits might not be updated.
 
 
