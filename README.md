@@ -21,8 +21,8 @@ This Applicaton takes Enrollment number and his programme code from the user. Fe
 - Since programmes are updated regularly at IGNOU, their corresponding courses list might not be updated in our database. Contribute to the project and update the list of courses under '/src/course_details.dat'.
 
 ### Possible reasons for invalid/inaccurate percentage
-- If one or more courses (either assignment or term end exam or both) might not be completed .
-- If the result is not updated for the one or more courses, or the result for Assigments or Term End Examination is not updated for one or more courses.
+- When one or more courses (either assignment or term end exam or both) might not be completed.
+- When the result is not updated for one or more courses, or the result for Assigments or Term End Examination is not updated for one or more courses.
 - Since programmes are updated regularly, their corresponding courses' credits might not be updated.
 
 
