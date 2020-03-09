@@ -13,6 +13,16 @@ Download for your operating system and platform:
 ## How it works?
 This Applicaton takes Enrollment number and his programme code from the user. Fetches the result from the official IGNOU website and then calculates the precentage. Percentage calculated is not rounded-off.
 
-## Known Issues
-This section coming soon.
+## Known Issues:
+### Possible reasons for application crash
+- Incorrect enrollment number (as this application does not verifies user's enrollment number)
+- When enrollment number is left blank.
+- Enrollment number provided is for programmes other than BA / BDP / BCOM.
+- Since programmes are updated regularly at IGNOU, their corresponding courses list might not be updated in our database. Contribute to the project and update the list of courses under '/src/course_details.dat'.
+
+### Possible reasons for invalid/inaccurate percentage
+- When one or more courses are not completed by the user for their programme at IGNOU.
+- When the result for either Assignment or Term End Exam (theory) might not be updated on the IGNOU website.
+- Since programmes are updated regularly, their corresponding courses' credits might not be updated in our database. Contribute to the project and update the list of courses under '/src/course_details.dat'.
+
 
