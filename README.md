@@ -7,8 +7,8 @@ Download for your operating system and platform:
 - [Windows10-32bit](https://github.com/ravigupta-art/IgnouPercentageCalculator/blob/master/dist/IgnouPercentageCalculator_BA_BDP_BCOM_32bit.exe)
 - [Linux-64bit](https://github.com/ravigupta-art/IgnouPercentageCalculator/raw/master/dist/IgnouPercentageCalculator_BA_BDP_BCOM)
 
-## Preview (screenshots):
-This section coming soon.
+## Preview (screenshot):
+![Ignou Percentage Calculator (BA/BCOM/BDP) -- v1.0alpha screenshot](/docs/images/IgnouPercentageCalculator_BA_BDP_BCOM_preview.png "Ignou Percentage Calculator (BA/BCOM/BDP) -- v1.0alpha screenshot")
 
 ## How it works?
 This section coming soon.
