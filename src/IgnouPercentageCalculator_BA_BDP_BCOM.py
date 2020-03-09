@@ -31,7 +31,7 @@ layout = [  [sg.Text('IGNOU PERCENTAGE CALCULATOR (BA/BCOM/BDP)', size=(60, 1), 
             [sg.Text('', size=(60,0), key='output', font=('ubuntu', 14))],      
             [sg.Button('Calculate Percentage', bind_return_key=True)],
             [sg.Text(' '*2, size=(60,0), justification='center')], 
-            [sg.Text("*NOTE: \n 1. This application needs an active internet connection to fetch the result from the IGNOU's official website. \n 2. The percentage calculated can be inaccurate/invalid, or the application might crash for some reasons. \n 3. Read more about the known issues here:- https://linktorepo.io", size=(95,0))]]     
+            [sg.Text("*NOTE: \n 1. This application needs an active internet connection to fetch the result from the IGNOU's official website. \n 2. The percentage calculated can be inaccurate/invalid, or the application might crash for some reasons. \n 3. Read more about the known issues here:- \n     https://github.com/ravigupta-art/IgnouPercentageCalculator#known-issues", size=(95,0))]]     
 
 window = sg.Window('IGNOU PERCENTAGE CALCULATOR (BA/BCOM/BDP) -- v1.0alpha', layout )      
 
