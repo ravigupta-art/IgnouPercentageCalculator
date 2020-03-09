@@ -11,7 +11,7 @@ Download for your operating system and platform:
 ![Ignou Percentage Calculator (BA/BCOM/BDP) -- v1.0alpha screenshot](/docs/images/IgnouPercentageCalculator_BA_BDP_BCOM_preview.png "Ignou Percentage Calculator (BA/BCOM/BDP) -- v1.0alpha screenshot")
 
 ## How it works?
-This section coming soon.
+This Applicaton takes Enrollment number and his programme code from the user. Fetches the result from the official IGNOU website and then calculates the precentage. Percentage calculated is not rounded-off.
 
 ## Known Issues
 This section coming soon.
