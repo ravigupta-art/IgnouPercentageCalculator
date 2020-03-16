@@ -25,4 +25,6 @@ This Applicaton takes Enrollment number and his programme code from the user. Fe
 - When the result for either Assignment or Term End Exam (theory) might not be updated on the IGNOU website.
 - Since programmes are updated regularly, their corresponding courses' credits might not be updated in our database. Contribute to the project and update the list of courses under '/src/course_details.dat'.
 
+### Video tour of the application
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4xlI0KbvjO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
