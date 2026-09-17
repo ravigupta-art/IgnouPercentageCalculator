@@ -4,4 +4,4 @@ bs4==0.0.1
 PyInstaller==5.13.1
 PySimpleGUI==4.16.0
 shiboken2==5.14.1
-soupsieve==2.0
+soupsieve==2.9
